@@ -14,3 +14,6 @@ This repository includes code for the tools used in the assembly of brain transc
 8. pfam
 9. dryophytes_filter
 10. Salmon
+11. wgcna
+12. wgcna_enrichment
+13. enrichment_plots
