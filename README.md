@@ -18,4 +18,4 @@ This repository includes code for the tools used in the assembly of brain transc
 12. wgcna_enrichment
 13. enrichment_plots
 
-We also included the software version file for a comprehensive list of software used, their version, and the links where they can be obtained. 
+We also included the software version file for a comprehensive list of software used, their version, and the links where they can be obtained (Software_version.txt) and some specifications of the PC used (. 
