@@ -20,7 +20,7 @@ This repository is the code for an original manuscript by Herrera-Orozco et al c
 12. wgcna_enrichment
 13. enrichment_plots
 
-We also included the software version file for a comprehensive list of software used, their version, and the links where they can be obtained (Software_version.txt) and some specifications of the PC used (pc_specs.txt). 
+We also included a comprehensive list of software used, their version, and the links where they can be obtained (Software_version.txt) and some specifications of the PC used (pc_specs.txt). 
 
 **The authors do not own any of the tools, software, or databases used in this pipeline. Please refer to each repository for authorship** 
 
