@@ -1,5 +1,5 @@
 # LncRNAs-in-Dryophytes-arenicolor
-This repository includes code for the tools used in the assembly of brain transcriptomes of three different life cycle stages of Dryophytes arenicolor, and both known and de novo lncRNA identifcation. The clean sequencing files and the assembled transcriptomes can be found in the NCBI BioProject Repository PRJNA1295574. Each sample is formed by pooling three independent tissues. 
+This repository includes code for the tools used in the assembly of brain transcriptomes of three different life cycle stages of Dryophytes arenicolor, and both known and de novo lncRNA identifcation. The clean sequencing files and the assembled transcriptomes can be found in the NCBI BioProject Repository **PRJNA1295574**. Each sample is formed by pooling three independent tissues. The stages of the samples are Pre-metamorphosis (G26), Metamorphic Climax (G42), and Adults. 
 
 
 # The order of the scripts should go
@@ -17,3 +17,5 @@ This repository includes code for the tools used in the assembly of brain transc
 11. wgcna
 12. wgcna_enrichment
 13. enrichment_plots
+
+We also included the software version file for a comprehensive list of software used, their version, and the links where they can be obtained. 
