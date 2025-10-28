@@ -1,0 +1,5 @@
+Processor	AMD Ryzen 9 5900X 12-Core Processor               3.70 GHz
+Installed RAM	32.0 GB (31.9 GB usable)
+Storage	932 GB SSD KINGSTON SNV2S1000G, 1.82 TB HDD WDC WD20EZAZ-00L9GB0
+Graphics Card	NVIDIA GeForce RTX 3050 (8 GB)
+System Type	64-bit operating system, x64-based processor
